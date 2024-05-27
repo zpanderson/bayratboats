@@ -1,0 +1,3 @@
+Sitemap: https://bayratboats.com/sitemap.xml
+User-agent: *
+Disallow:
